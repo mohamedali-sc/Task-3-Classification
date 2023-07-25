@@ -15,3 +15,8 @@
 ![image](https://github.com/mohamedali-sc/Task-3-Classification/assets/96593530/db4eb830-55a4-45a1-8601-de8928490353)
 
 #### Model is not good because it makes the data overfit.
+
+## Naive_Bayes
+![image](https://github.com/mohamedali-sc/Task-3-Classification/assets/96593530/e4cfe68b-15bb-4823-85c1-360bdee1d76b)
+![image](https://github.com/mohamedali-sc/Task-3-Classification/assets/96593530/59d301c6-df72-40dc-82ad-d6ff1a79d2a8)
+![image](https://github.com/mohamedali-sc/Task-3-Classification/assets/96593530/93e8b49e-ded4-41b5-a71b-ccb8e0245a07)
